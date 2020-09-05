@@ -1,0 +1,15 @@
+site_name: Learning UI
+nav:
+  - Introduction: index.md
+  - Installation: installation.md
+  - Customization Guide: guide.md
+  - Packages: packages.md
+  - License: license.md
+  - Release Notes: release.md
+theme: 
+  name: material  
+  logo: open-book-white.png
+  favicon: open-book.png    
+  palette:
+    primary: red
+    accent: cyan
