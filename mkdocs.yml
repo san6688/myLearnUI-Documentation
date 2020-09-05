@@ -1,6 +1,6 @@
 site_name: Learning UI
 nav:
-  - Introduction: index.md
+  - Introduction: introduction.md
   - Installation: installation.md
   - Customization Guide: guide.md
   - Packages: packages.md
